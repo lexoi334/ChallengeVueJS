@@ -22,6 +22,10 @@
 
 - une page Ingrédients accessible depuis les tags de la page recette qui liste les plats contenant l’ingrédient sélectionné
 
+- bien sur le site doit être responsive !
+
+**Let's go !
+
 ## Project setup
 ```
 npm install
