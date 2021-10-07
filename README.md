@@ -5,7 +5,7 @@
 1 Faire un site internet en utilisant VueJS3 et l'API '*ThemealDB*'
 
 - une page d’Accueil qui redirige l’utilisateur vers les autres pages
-- 
+
 - une page Recherche par lettre (A - Z) qui affiche sous la liste des lettres de l’alphabet les recettes dont le nom commence par la lettre sélectionnée (dans l’ordre alphabétique)
  
 - une page Catégories, qui affiche toutes les catégories
