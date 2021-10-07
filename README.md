@@ -24,7 +24,7 @@
 
 - bien sur le site doit être responsive !
 
-**Let's go !
+**Let's go !**
 
 ## Project setup
 ```
