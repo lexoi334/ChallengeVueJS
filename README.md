@@ -1,8 +1,8 @@
 # challenge-vuejs
 
-** En quoi consiste ce projet ? **
+**En quoi consiste ce projet ?
 
-1 Faire un site internet en utilisant VueJS3 et l'API '*ThemealDB*'
+***Faire un site internet en utilisant VueJS3 et l'API '*ThemealDB*'
 
 - une page d’Accueil qui redirige l’utilisateur vers les autres pages
 
